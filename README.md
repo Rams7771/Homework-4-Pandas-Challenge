@@ -9,6 +9,6 @@ Code Sources: N/A
 
 Author: Tray Crusciel
 
-Acknowledgements: 
+Acknowledgements: I acknowledge Caleb Cutrer for helping with the code specifically in cell 25
 
 License: Specify the license under which your project is shared (if applicable).
